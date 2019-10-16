@@ -2,3 +2,27 @@ vi:
   hello: Xin chào
   en: Tiếng Anh
   vi: Tiếng Việt
+  this: Đây là trang chủ của
+  sample_app: ứng dụng sample
+  app: Ứng dụng Sample
+  help: Trợ giúp
+  help_page: Trang trợ giúp Rails Tutorial
+  help_tutorial: Xem hướng dẫn của Ruby on Rails Tutorial tại
+  help_sample: Để xem hướng dẫn về ứng dụng sample, đọc sách
+  about: Về chúng tôi
+  home: Trang chủ
+  learn: Learn Enough
+  app_name: Ứng dụng mẫu Ruby on Rails Tutorial
+  tutorial: Hướng dẫn Ruby on Rails
+  rails: Ruby on Rails
+  screencast: screencast series
+  book: sách
+  the: Với
+  part: một phần của
+  fa_tutoral: chuỗi hướng dẫn, là một
+  and: và
+  with: để dạy phát triển web với
+  app_about: Đây là một ứng dụng đơn giản cho hướng dẫn
+  contact: Liên hệ
+  contact_page: Trang liên hệ
+  contact_addr: Liên hệ với Ruby on Rails Tutorial về ứng dựng sample tại
