@@ -1,4 +1,29 @@
 en:
   hello: Hello world
-  vi: Vietnammese
-  en: English
+  en: en
+  vi: vi
+  this: This is the home page for the
+  sample_app: sample application
+  app: Sample App
+  app_about: This is the sample app for the Tutorial
+  help_tutorial: Get help on the Ruby on Rails Tutorial at the
+  help_sample: To get help on this sample app, see the
+  about: About
+  home: Home
+  contact: Contact
+  contact_page: contact page
+  help: Help
+  help_page: Rails Tutorial help page
+  learn: Learn Enough
+  book: book
+  rails: Ruby on Rails
+  screencast: screencast series
+  app_name: Ruby on Rails Tutorial Sample App
+  tutorial: Ruby on Rails Tutorial
+  the: The
+  part: part of the
+  fa_tutoral: family of tutorials, is a
+  and: and
+  with: to teach web development with
+  this is the sample app for the tutorial: This is the sample app for the tutorial
+  contact_addr: Contact the Ruby on Rails Tutorial about the sample app at the
