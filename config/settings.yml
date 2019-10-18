@@ -8,3 +8,7 @@ help: "https://www.railstutorial.org/help"
 cat: "https://cdn.learnenough.com/kitten.jpg"
 michaelhartl: "http://www.michaelhartl.com/"
 news: "http://news.railstutorial.org/"
+max_name: 50
+max_email: 255
+max_pass: 6
+email_validate_regex: !ruby/regexp '/\A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z/i'
