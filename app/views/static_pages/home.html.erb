@@ -1,7 +1,13 @@
 <% provide :title, t("home") %>
-<h1><%= t "app" %></h1>
-<p>
-  <%= t "this" %>
-  <%= link_to t("tutorial"), Settings.rails_tutoral %>
-  <%= t "app" %>
-</p>
+<div class="center jumbotron">
+  <h1><%= t "app" %></h1>
+  <h2>
+    <%= t "this" %>
+    <%= link_to t("tutorial"), Settings.rails_tutoral %>
+    <%= t "app" %>
+  </h2>
+  <%= link_to t("sign_up"), signup_path, class: "btn btn-lg btn-primary" %>
+</div>
+
+<%= link_to image_tag("rail.png", alt: t("logo")), Settings.rails %>
+<%= link_to image_tag("kitten.jpg", alt: t("cat")), Settings.cat %>
