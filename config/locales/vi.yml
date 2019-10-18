@@ -2,10 +2,18 @@ vi:
   hello: Xin chào
   en: Tiếng Anh
   vi: Tiếng Việt
+  log_in: Đăng nhập
+  sign_up: Đăng ký
+  sign_up_page: Đây là trang đăng ký cho người dùng mới
+  logo: Rails logo
+  cat: Ảnh chú mèo
   this: Đây là trang chủ của
   sample_app: ứng dụng sample
   app: Ứng dụng Sample
   help: Trợ giúp
+  michaelhartl: Michael Hartl
+  news: News
+  by: bởi
   help_page: Trang trợ giúp Rails Tutorial
   help_tutorial: Xem hướng dẫn của Ruby on Rails Tutorial tại
   help_sample: Để xem hướng dẫn về ứng dụng sample, đọc sách
