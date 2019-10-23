@@ -3,12 +3,19 @@ en:
   en: En
   vi: Vi
   log_in: Log in
+  log_out: Log out
+  settings: Settings
+  profile: Profile
+  users: Users
+  account: Account
+  invalid: Invalid email/password combination
   sign_up: Sign up
   confirm_pass: Confirmation
   create_account: Create account
   name: Name
   email: Email
   pass: Password
+  new_user: New user
   sign_up_page: This will be a signup page for new users
   form: The form contains
   error: error
