@@ -4,7 +4,16 @@ en:
   vi: Vi
   log_in: Log in
   sign_up: Sign up
+  confirm_pass: Confirmation
+  create_account: Create account
+  name: Name
+  email: Email
+  pass: Password
   sign_up_page: This will be a signup page for new users
+  form: The form contains
+  error: error
+  welcome: Welcome to the sample app!
+  not_found: User not found
   logo: Rails logo
   cat: Cat image
   this: This is the home page for the

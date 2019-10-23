@@ -10,5 +10,6 @@ michaelhartl: "http://www.michaelhartl.com/"
 news: "http://news.railstutorial.org/"
 max_name: 50
 max_email: 255
-max_pass: 6
+min_pass: 6
+gravatar_size: 80
 email_validate_regex: !ruby/regexp '/\A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z/i'

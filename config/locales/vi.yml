@@ -4,7 +4,16 @@ vi:
   vi: Tiếng Việt
   log_in: Đăng nhập
   sign_up: Đăng ký
+  confirm_pass: Xác nhận mật khẩu
+  create_account: Tạo tài khoản
+  name: Tên
+  email: Email
+  pass: Mật khẩu
   sign_up_page: Đây là trang đăng ký cho người dùng mới
+  form: Form này bao gồm
+  error: lỗi
+  welcome: Chào mừng bạn đến với ứng dụng Sample!
+  not_found: Không tìm thấy người dùng
   logo: Rails logo
   cat: Ảnh chú mèo
   this: Đây là trang chủ của
