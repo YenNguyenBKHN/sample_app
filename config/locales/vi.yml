@@ -3,12 +3,19 @@ vi:
   en: Tiếng Anh
   vi: Tiếng Việt
   log_in: Đăng nhập
+  log_out: Đăng xuất
+  settings: Cài đặt
+  profile: Hồ sơ
+  users: Người dùng
+  account: Tài khoản
+  invalid: Email hoặc mật khẩu bạn vừa nhập không đúng
   sign_up: Đăng ký
   confirm_pass: Xác nhận mật khẩu
   create_account: Tạo tài khoản
   name: Tên
   email: Email
   pass: Mật khẩu
+  new_user: Người dùng mới
   sign_up_page: Đây là trang đăng ký cho người dùng mới
   form: Form này bao gồm
   error: lỗi
