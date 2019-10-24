@@ -15,6 +15,8 @@ en:
   name: Name
   email: Email
   pass: Password
+  remember: remember
+  remember_me: Remember me on this computer
   new_user: New user
   sign_up_page: This will be a signup page for new users
   form: The form contains
