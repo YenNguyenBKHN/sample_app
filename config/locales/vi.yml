@@ -16,6 +16,8 @@ vi:
   email: Email
   pass: Mật khẩu
   new_user: Người dùng mới
+  remember: Ghi nhớ
+  remember_me: Ghi nhớ tài khoản trên máy tính này
   sign_up_page: Đây là trang đăng ký cho người dùng mới
   form: Form này bao gồm
   error: lỗi

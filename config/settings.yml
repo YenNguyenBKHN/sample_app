@@ -12,4 +12,5 @@ max_name: 50
 max_email: 255
 min_pass: 6
 gravatar_size: 80
+session_params: "1"
 email_validate_regex: !ruby/regexp '/\A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z/i'
