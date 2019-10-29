@@ -12,5 +12,7 @@ max_name: 50
 max_email: 255
 min_pass: 6
 gravatar_size: 80
+page_size: 10
 session_params: "1"
 email_validate_regex: !ruby/regexp '/\A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z/i'
+gravatar_user: "http://gravatar.com/emails"

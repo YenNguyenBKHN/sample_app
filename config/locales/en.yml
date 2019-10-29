@@ -7,9 +7,14 @@ en:
   settings: Settings
   profile: Profile
   users: Users
+  all_users: All users
   account: Account
   invalid: Invalid email/password combination
   sign_up: Sign up
+  delete: Delete
+  you_sure: You sure?
+  success_delete: User deleted
+  false_delete: Deleting user falsed
   confirm_pass: Confirmation
   create_account: Create account
   name: Name
@@ -18,6 +23,13 @@ en:
   remember: remember
   remember_me: Remember me on this computer
   new_user: New user
+  login_require: Please login
+  edit: Edit User
+  update_profile: Update your profile
+  update_success: Profile updated
+  update_falsed: Update falsed
+  change: Change
+  save: Save changes
   sign_up_page: This will be a signup page for new users
   form: The form contains
   error: error

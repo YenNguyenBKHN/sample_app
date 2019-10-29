@@ -1,5 +1,6 @@
 class SessionsController < ApplicationController
   before_action :session_params, only: [:create]
+
   def new; end
 
   def create
@@ -10,7 +11,7 @@ class SessionsController < ApplicationController
       else
         forget @user
       end
-      redirect_to @user
+      redirect_back_or @user
     else
       flash.now[:danger] = t "invalid"
       render :new
