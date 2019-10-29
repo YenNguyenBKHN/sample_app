@@ -19,6 +19,14 @@ en:
   create_account: Create account
   name: Name
   email: Email
+  hi: Hi
+  active: Activate
+  activated: Account activated!
+  not_activated: Account not activated. Please check your email to activate your account.
+  invalid_link: Invalid activation link
+  check_mail: Please check your email to activate your account.
+  account_activation: Account activation
+  active_account: Welcome to the Sample App! Click on the link below to active your account
   pass: Password
   remember: remember
   remember_me: Remember me on this computer
