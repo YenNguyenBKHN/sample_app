@@ -20,6 +20,14 @@ vi:
   create_account: Tạo tài khoản
   name: Tên
   email: Email
+  hi: Xin chào
+  activated: Tài khoản đã được kích hoạt
+  not_activated: Tài khoản chưa được kích hoạt
+  invalid_link: Link kích hoạt không tồn tại
+  active: Kích hoạt
+  check_mail: Vui lòng kiểm tra email của bạn để kích hoạt tài khoản.
+  active_account: Chào mừng bạn đến với ứng dụng Sample! Vui lòng nhấn vào link bên dưới để kích hoạt tài khoản
+  account_activation: Kích hoạt tài khoản
   pass: Mật khẩu
   edit: Chỉnh sửa người dùng
   change: Thay đổi
