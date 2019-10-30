@@ -5,6 +5,19 @@ vi:
   log_in: Đăng nhập
   log_out: Đăng xuất
   settings: Cài đặt
+  forgot_password: (Quên mật khẩu?)
+  forgot_pass: Quên mật khẩu
+  email_not_found: Không tìm thấy địa chỉ email
+  email_reset_pass: Hướng dẫn đặt lại mật khẩu đã được gửi cùng email
+  pass_reset: Đặt lại mật khẩu
+  click_reset_link: Để đặt lại mật khẩu, click vào linh bên dưới
+  expire_link: Link này sẽ hết hiệu lực sau 2 giờ
+  ignore_email: Nếu bạn không yêu cầu đặt lại mật khẩu, hãy bỏ qua email này
+  submit: Xác nhận\
+  update_pass: Cập nhật mật khẩu
+  pass_has_been_reset: Mật khẩu đã được đặt lại
+  can't_empty: Không thể để trống
+  reset_pass_expired: Yêu cầu đặt lại mật khẩu đã hết hạn.
   profile: Hồ sơ
   users: Người dùng
   all_users: Tất cả người dùng
@@ -33,7 +46,7 @@ vi:
   change: Thay đổi
   update_profile: Cập nhật hồ sơ của bạn
   update_success: Cập nhật hồ sơ thành công
-  update_falsed: Không thể cập nhật thông tingit 
+  update_falsed: Không thể cập nhật thông tingit
   save: Lưu thay đổi
   new_user: Người dùng mới
   remember: Ghi nhớ
