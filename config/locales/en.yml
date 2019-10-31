@@ -5,6 +5,19 @@ en:
   log_in: Log in
   log_out: Log out
   settings: Settings
+  forgot_password: (Forgot password?)
+  forgot_pass: Forgot password
+  email_not_found: Email address not found
+  email_reset_pass: Email sent with password reset instructions
+  pass_reset: Password reset
+  click_reset_link: To reset your password click the link below
+  expire_link: This link will expire in two hours
+  ignore_email: If you did not request your password to be reset, please ignore this email and your password will stay as it is
+  submit: Submit
+  update_pass: Update password
+  pass_has_been_reset: Password has been reset
+  can't_empty: Can't empty
+  reset_pass_expired: Password reset has expired
   profile: Profile
   users: Users
   all_users: All users

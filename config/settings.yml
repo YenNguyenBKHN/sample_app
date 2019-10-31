@@ -11,6 +11,7 @@ news: "http://news.railstutorial.org/"
 max_name: 50
 max_email: 255
 min_pass: 6
+time_expired: 2
 gravatar_size: 80
 page_size: 10
 session_params: "1"
