@@ -1,4 +1,6 @@
 class User < ApplicationRecord
+  has_many :microposts, dependent: :destroy
+
   attr_accessor :remember_token, :activation_token, :reset_token
 
   VALID_EMAIL_REGEX = Settings.email_validate_regex
@@ -46,8 +48,7 @@ class User < ApplicationRecord
   end
 
   def activate
-    update activated: true
-    update activated_at: Time.zone.now
+    update activated: true, activated_at: Time.zone.now
   end
 
   def send_activation_email
@@ -65,6 +66,10 @@ class User < ApplicationRecord
 
   def password_reset_expired?
     reset_sent_at < Settings.time_expired.hours.ago
+  end
+
+  def feed
+    microposts.order_by_created_at
   end
 
   private

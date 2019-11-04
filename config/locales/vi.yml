@@ -13,12 +13,22 @@ vi:
   click_reset_link: Để đặt lại mật khẩu, click vào linh bên dưới
   expire_link: Link này sẽ hết hiệu lực sau 2 giờ
   ignore_email: Nếu bạn không yêu cầu đặt lại mật khẩu, hãy bỏ qua email này
-  submit: Xác nhận\
+  submit: Xác nhận
+  post: Đăng tin
+  posted: Đã đăng vào
+  ago: trước.
+  micropost_deleted: Đã xoá mẩu tin
+  feed: Bảng tin
+  view_profile: Xem hồ sơ của tôi
+  compose_post: Soạn mẩu tin mới ...
   update_pass: Cập nhật mật khẩu
   pass_has_been_reset: Mật khẩu đã được đặt lại
   can't_empty: Không thể để trống
   reset_pass_expired: Yêu cầu đặt lại mật khẩu đã hết hạn.
   profile: Hồ sơ
+  microposts: Mẩu tin
+  micropost_created: Mẩu tin đã được tạo thành công!
+  create_failed: Không thể tạo mẩu tin!
   users: Người dùng
   all_users: Tất cả người dùng
   account: Tài khoản
@@ -85,6 +95,9 @@ vi:
   contact: Liên hệ
   contact_page: Trang liên hệ
   contact_addr: Liên hệ với Ruby on Rails Tutorial về ứng dựng sample tại
+  valid_image: Vui lòng chọn ảnh đúng định dạng
+  image_size: Ảnh cần có kích thước nhỏ hơn 5MB
+  choose_smaller_file: Kích thước tối đa cho phép là 5MB. Vui lòng chọn file có kích thước nhỏ hơn.
   views:
     pagination:
       first: "&laquo; Trang đầu"
