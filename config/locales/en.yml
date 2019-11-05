@@ -14,11 +14,21 @@ en:
   expire_link: This link will expire in two hours
   ignore_email: If you did not request your password to be reset, please ignore this email and your password will stay as it is
   submit: Submit
+  post: Post
+  posted: Posted
+  ago: ago.
+  micropost_deleted: Micropost deleted
+  feed: Micropost Feed
+  view_profile: View my profile
+  compose_post: Compose new micropost...
   update_pass: Update password
   pass_has_been_reset: Password has been reset
   can't_empty: Can't empty
   reset_pass_expired: Password reset has expired
   profile: Profile
+  microposts: Microposts
+  micropost_created: Micropost created!
+  create_failed: Created Micropost failed
   users: Users
   all_users: All users
   account: Account
@@ -53,7 +63,9 @@ en:
   save: Save changes
   sign_up_page: This will be a signup page for new users
   form: The form contains
-  error: error
+  error:
+    one: 1 error
+    other: "%{count} errors"
   welcome: Welcome to the sample app!
   not_found: User not found
   logo: Rails logo
@@ -86,3 +98,9 @@ en:
   with: to teach web development with
   this is the sample app for the tutorial: This is the sample app for the tutorial
   contact_addr: Contact the Ruby on Rails Tutorial about the sample app at the
+  valid_image: Image must be a valid image format
+  image_size: Should be less than 5MB
+  choose_smaller_file: Maximum file size is 5MB. Please choose a smaller file.
+  micropost:
+    one: 1 micropost
+    other: "%{count} microposts"
