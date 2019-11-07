@@ -34,7 +34,7 @@ class MicropostsController < ApplicationController
       flash[:success] = t "micropost_created"
       redirect_to root_url
     else
-      @feed_items = current_user.feed.page(params[:page]).per Settings.page_size
+      @feed_items = Micropost.by_user(current_user.id).page(params[:page]).per Settings.page_size
       flash.now[:danger] = t "create_failed"
       render "static_pages/home"
     end

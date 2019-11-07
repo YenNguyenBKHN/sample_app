@@ -16,6 +16,7 @@ gravatar_size: 80
 page_size: 10
 content_size: 140
 image_size: 5
+gravatar_size: 50
 resize_to_limit: [500, 500]
 content_type: ["image/jpeg", "image/gif", "image/png"]
 image_accept: "image/jpeg,image/gif,image/png"
