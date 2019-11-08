@@ -114,3 +114,10 @@ vi:
           other: "Đang hiển thị <b>all %{count}</b> %{entry_name}"
       more_pages:
         display_entries: "Đang hiển thị %{entry_name} <b>%{first}&nbsp;-&nbsp;%{last}</b> of <b>%{total}</b> trong tổng cộng"
+  followers: Người theo dõi
+  following: Đang theo dõi
+  follow: Theo dõi
+  unfollow: Bỏ theo dõi
+  micropost:
+    one: 1 mẩu tin
+    other: "%{count} mẩu tin"

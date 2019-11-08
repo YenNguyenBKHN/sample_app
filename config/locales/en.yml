@@ -104,3 +104,7 @@ en:
   micropost:
     one: 1 micropost
     other: "%{count} microposts"
+  following: Following
+  followers: Followers
+  follow: Follow
+  unfollow: Unfollow

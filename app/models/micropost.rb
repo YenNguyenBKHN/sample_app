@@ -13,6 +13,10 @@ class Micropost < ApplicationRecord
            message: I18n.t("image_size")}
   scope :order_by_created_at, ->{order created_at: :desc}
   scope :by_user_id, ->(id){where user_id: id}
+  scope :by_user, (lambda do |id|
+    where(user_id: Relationship.following_ids(id))
+      .or(Micropost.where(user_id: id))
+  end)
 
   def display_image
     image.variant resize_to_limit: Settings.resize_to_limit
